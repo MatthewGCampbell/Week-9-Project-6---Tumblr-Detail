@@ -16,9 +16,7 @@ The following **required** functionality is completed:
 - [X] Made personal finishing touches to the UI
 
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+Nothing aditional was implemented
 
 ## Video Walkthrough
 
